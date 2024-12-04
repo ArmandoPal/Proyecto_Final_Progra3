@@ -48,8 +48,8 @@ El objetivo del proyecto final es implementar una plataforma de **streaming**. U
 
 ### Referencias Bibliográficas
 
-[7] Crow C++ (2024). Documentación oficial de Crow. Recuperado de https://crowcpp.org/master/
+Crow C++ (2024). Documentación oficial de Crow. Recuperado de https://crowcpp.org/master/
 
-[8] Microsoft (2024). vcpkg: C++ Library Manager. Recuperado de https://vcpkg.io/en/
+ Microsoft (2024). vcpkg: C++ Library Manager. Recuperado de https://vcpkg.io/en/
 
-[9] Think-Async (2024). Asio C++ Library. Recuperado de https://think-async.com/Asio/Documentation.html
+Think-Async (2024). Asio C++ Library. Recuperado de https://think-async.com/Asio/Documentation.html
