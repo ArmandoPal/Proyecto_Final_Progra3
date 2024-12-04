@@ -26,3 +26,30 @@ El objetivo del proyecto final es implementar una plataforma de **streaming**. U
 * **Grabar su presentación** y colocar el **link** en su repositorio. El video debe tener un máximo de **15 minutos**. Aquel grupo que sobrepase el tiempo tendrá una penalización en su nota.
 * Cumplir con la rúbrica del proyecto.
 * Fecha de presentación: La última semana.
+
+## Tecnologías y Herramientas Utilizadas
+
+### Lenguaje y Paradigmas
+- C++ 
+- Programación Orientada a Objetos
+- Programación Genérica
+- Programación Concurrente
+
+### Bibliotecas
+- Crow (Framework web C++)
+- Asio (Biblioteca para programación de red asíncrona)
+
+### Gestión de Dependencias
+- vcpkg para la gestión de paquetes
+  ```bash
+  # Instalación de dependencias
+  vcpkg install crow:x64-windows
+  vcpkg install asio:x64-windows
+
+### Referencias Bibliográficas
+
+[7] Crow C++ (2024). Documentación oficial de Crow. Recuperado de https://crowcpp.org/master/
+
+[8] Microsoft (2024). vcpkg: C++ Library Manager. Recuperado de https://vcpkg.io/en/
+
+[9] Think-Async (2024). Asio C++ Library. Recuperado de https://think-async.com/Asio/Documentation.html
