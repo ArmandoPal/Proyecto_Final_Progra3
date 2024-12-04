@@ -1,0 +1,10 @@
+*build
+.DS_Store
+*.exe
+*.bin
+*.out
+server
+client
+test/
+.vs/
+.vscode/
